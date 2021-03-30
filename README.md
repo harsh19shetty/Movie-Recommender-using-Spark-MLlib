@@ -1,5 +1,6 @@
 # Movie-Recommender-using-Spark-MLlib
-We are going to illustrate the power of Spark by using the "movielens" dataset, which contains 100k ratings for movies through1997, and recommend movies to the user based on his previous ratings.
+We are going to illustrate the power of Spark by using the "movielens" dataset, which contains 100k ratings for movies through1997, and recommend movies to the user based on his previous ratings. For this, we will predict the movie a user would like to watch based on his previous ratings for movies (just like Netflix would reccomend you movies to watch based on the movies you have already watched and obviously many more features which we will not be touching upon today).
+Mllib is a library built on Spark
 
 
 
