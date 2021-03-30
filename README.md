@@ -5,7 +5,7 @@ Today we will be using a machine learning model - collaborative filtering on the
 
 
 **About the Data:**
-MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota. **u.item** consists of information about the items (movies); this is a tab separated and **u.data** consists of:
+MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota. **u.item** consists of information about the items (movies) and **u.data** consists of:
 
 •	100,000 ratings (1-5) from 943 users on 1682 movies
 
