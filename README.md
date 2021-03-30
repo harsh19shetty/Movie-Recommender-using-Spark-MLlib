@@ -8,9 +8,7 @@ Today we will be using a machine learning model - collaborative filtering on the
 MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota. **u.item** consists of information about the items (movies) and **u.data** consists of:
 
 •	100,000 ratings (1-5) from 943 users on 1682 movies
-
 •	Each user has rated at least 20 movies
-
 •	Simple demographic info for the users (age, gender, occupation, zip)
 
 
