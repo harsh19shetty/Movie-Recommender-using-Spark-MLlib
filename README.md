@@ -1,5 +1,5 @@
 # Movie-Recommender-using-Spark-MLlib
-We are going to illustrate the power of Spark by using the "movielens" dataset, which contains 100k ratings for movies through1997, and recommend movies to the user based on his previous ratings. For this, we will predict the movie a user would like to watch based on his previous ratings for movies (just like Netflix would reccomend you movies to watch based on the movies you have already watched and obviously many more features which we will not be touching upon today).
+We are going to illustrate the power of Spark by using the "movielens" dataset, which contains 100k ratings for movies through 1997, and recommend movies to the user based on his previous ratings (just like Netflix would reccomend you movies to watch based on the movies you have already watched and obviously many more features which we will not be touching upon today). 
 
 
 **About the Data:**
@@ -15,3 +15,14 @@ This data set consists of:
 •	Simple demographic info for the users (age, gender, occupation, zip)
 
 
+**Requirements:**
+
+•	Hadoop Ecosystem (HDFS, YARN, Spark, etc.)
+
+•	Hortonworks Sandbox to administer the Hadoop Ecosystem
+
+•	Python
+
+•	Oracle VM VirtualBox Manager
+
+•	Putty
