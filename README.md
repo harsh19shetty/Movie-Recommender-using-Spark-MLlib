@@ -16,6 +16,7 @@ This data set consists of:
 
 **Requirements:**
 Apart from the obvious basic conceptual understanding of Hadoop, we require the following:
+
 •	Hadoop Ecosystem (HDFS, YARN, Spark, etc.)
 
 •	Hortonworks Sandbox to administer the Hadoop Ecosystem
