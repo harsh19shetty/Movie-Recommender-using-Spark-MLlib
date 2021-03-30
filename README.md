@@ -3,8 +3,7 @@ We are going to illustrate the power of Spark by using the "movielens" dataset, 
 
 
 **About the Data:**
-MovieLens data sets were collected by the GroupLens Research Project
-at the University of Minnesota. 
+MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota. 
 
 This data set consists of:
 
@@ -16,7 +15,7 @@ This data set consists of:
 
 
 **Requirements:**
-
+Apart from the obvious basic conceptual understanding of Hadoop, we require the following:
 •	Hadoop Ecosystem (HDFS, YARN, Spark, etc.)
 
 •	Hortonworks Sandbox to administer the Hadoop Ecosystem
