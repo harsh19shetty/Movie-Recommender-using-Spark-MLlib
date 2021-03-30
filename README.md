@@ -3,9 +3,10 @@ We are going to illustrate the power of Spark by using the "movielens" dataset, 
 
 
 **About the Data:**
-
 MovieLens data sets were collected by the GroupLens Research Project
-at the University of Minnesota. This data set consists of:
+at the University of Minnesota. 
+
+This data set consists of:
 
 •	100,000 ratings (1-5) from 943 users on 1682 movies
 
