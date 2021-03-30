@@ -26,3 +26,10 @@ Apart from the obvious basic conceptual understanding of Hadoop, we require the 
 •	Oracle VM VirtualBox Manager
 
 •	Putty
+
+
+**Result:**
+As you can see, we were successfully able to obtain recommendations, which may not be perfect but are quite close as the user seemed to liked sci-fi movies and the model predicted a few sci-fi movies. This project was primarily done to show a project on Spark. The code took hours to run on Python alone, but we obtained the results on Spark inside 20 seconds which shows the true power of Spark and why it is so popular.
+
+**Inspiration:**
+I would like to thank Frank Kane whose course on Hadoop enabled me get a good understanding of how to work with Spark and other Hadoop frameworks.
