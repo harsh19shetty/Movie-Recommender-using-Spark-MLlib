@@ -19,7 +19,7 @@ Apart from the obvious basic conceptual understanding of Hadoop, we require the 
 
 •	Hadoop Ecosystem (HDFS, YARN, Spark, etc.)
 
-•	Hortonworks Sandbox to administer the Hadoop Ecosystem
+•	Hortonworks Sandbox (Ambari) to administer the Hadoop Ecosystem
 
 •	Python
 
